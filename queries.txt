@@ -1,0 +1,12 @@
+Task 1 (boolean.pl)
+?- expr(0,0,R).
+?- expr(0,1,R).
+?- expr(1,0,R).
+?- expr(1,1,R).
+
+Task 2 (lab8_tasks.pl)
+?- sumlist([1,2,5,7], S).
+?- sumlist([], S).
+
+Task 3 (lab8_tasks.pl)
+?- total_avg.
